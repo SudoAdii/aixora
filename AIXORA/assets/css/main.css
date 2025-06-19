@@ -956,7 +956,7 @@ ol {
     Call To Action CSS
 ========================================*/
 .call-action {
-  background: linear-gradient(45deg, #F5E1C5);
+  background: linear-gradient(45deg, #000);
 }
 
 .call-action .inner-content {
